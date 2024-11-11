@@ -1,0 +1,19 @@
+{
+	"tap_to_start_text":"Tap to start",
+	"player_1_Title":"Player 1",
+	"player_2_Title":"Player 2",
+	"player_1_TitlePC":"PC 1",
+	"player_2_TitlePC":"PC 2",
+	"you_title":"You",
+	"pc_title":"PC",
+	"ai_difficulty_label":"Difficulty:",
+	"ai_chess_color_select_label":"Chesses color:",
+	"twoPlayer_mode_label":"Two player mode:",
+	"game_mode_label":"Game mode:",
+	"draw_ask_text":"You were offered a draw.\nDo you agree?",
+	"draw_rejection_text":"The player does not\nagree with a draw!",
+	"draw_text":"Draw",
+	"white_wins_text":"White wins",
+	"black_wins_text":"Black wins",
+	"game_time_text":"Game time:"
+}

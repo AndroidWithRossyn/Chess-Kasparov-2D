@@ -1,0 +1,108 @@
+<TextureAtlas imagePath="MainAtlas.png">
+	<SubTexture name="logo" 	  x="1434" y="10"   width="410" height="114"/> <!-- logo -->
+	
+	
+	<SubTexture name="one_plaier" x="1431" y="157"  width="167" height="95"/> <!-- button one player -->
+	<SubTexture name="2_plaiers"  x="1689" y="157"  width="167" height="95"/> <!-- button two players -->
+	
+	<SubTexture name="load_a"     x="1431" y="296"  width="167" height="95"/> <!-- button resume -->
+	<SubTexture name="save"       x="1689" y="296"  width="167" height="95"/> <!-- button save -->
+	
+	<SubTexture name="sound"      x="1431" y="431"  width="167" height="95"/> <!-- button sound -->
+	<SubTexture name="sounds_off" x="1689" y="431"  width="167" height="95"/> <!-- button no sound -->
+	
+	<SubTexture name="more_games" x="1200" y="845"  width="167" height="95"/> <!-- button more games -->
+	<SubTexture name="share"      x="1200" y="990"  width="167" height="95"/> <!-- button share -->
+	
+	<SubTexture name="brain"          x="1500" y="590"  width="80"  height="60"/> <!-- icon brain -->
+	<SubTexture name="arrowUp1_copy"  x="1630" y="715"  width="67"  height="93"/> <!-- button arrow left -->
+	<SubTexture name="arrowBot1_copy" x="1400" y="715"  width="67"  height="93"/> <!-- button arrow right -->
+	
+	<SubTexture name="Back-001"   x="1431" y="845" width="167" height="95"/> <!-- button back -->
+	<SubTexture name="play"       x="1689" y="845" width="167" height="95"/> <!-- button play -->
+	<SubTexture name="home_copy"  x="1431" y="990" width="167" height="95"/> <!-- button home -->
+	<SubTexture name="menu_1"     x="1689" y="990" width="90" height="85"/>  <!-- button menu -->
+	<SubTexture name="undo_1"     x="1823" y="990" width="90" height="85"/>  <!-- button undo -->
+	
+	<SubTexture name="yes"        x="1431" y="1140" width="167" height="95"/> <!-- button yes -->
+	<SubTexture name="no"         x="1689" y="1140" width="167" height="95"/> <!-- button no -->
+	
+	<SubTexture name="plashka_Ba" x="1336" y="1310" width="595" height="582"/> <!-- panel page resume -->
+	<SubTexture name="plashka_Ba_1" x="589" y="1474" width="568" height="79"/>  <!-- selection resume -->
+	<SubTexture name="plashka1" x="589" y="1718" width="564" height="124"/>   <!-- panel player 1 -->
+	<SubTexture name="plashka2" x="589" y="1584" width="564" height="124"/>   <!-- panel player 2 or computer -->
+	
+	
+	
+	<!-- chess board -->
+	<SubTexture name="chess_bg_1" x="0" y="0" width="640" height="640"/> 
+	
+	<!-- Select -->
+	<SubTexture name="select_1" x="740"  y="360"  width="72" height="72"/>   <!-- blue : current selected -->
+	<SubTexture name="select_2" x="1080" y="360" width="72" height="72"/>  <!-- purple : last move -->
+	<SubTexture name="select_3" x="910"  y="360"  width="72" height="72"/>   <!-- green : last move - previous position --> 
+	<SubTexture name="root" x="928" y="480" width="37" height="36"/>      <!-- green cercle : possible positions -->
+	
+	
+	<!-- NOIR -->
+	<SubTexture name="set1_10" x="54"  y="700" width="69" height="69" frameX="-2" frameY="-1" frameWidth="73" frameHeight="73"/> <!-- roi -->
+	<SubTexture name="set1_12" x="144" y="700" width="68" height="69" frameX="2" frameY="-1" frameWidth="73" frameHeight="73"/>  <!-- reine -->
+	<SubTexture name="set1_8"  x="240" y="700" width="65" height="65" frameX="-4" frameY="-4" frameWidth="65" frameHeight="65"/> <!-- le fou -->
+	<SubTexture name="set1_6"  x="329" y="700" width="60" height="68" frameX="-5" frameY="-4" frameWidth="73" frameHeight="73"/> <!-- cheval -->
+	<SubTexture name="set1_4"  x="425" y="702" width="51" height="67" frameX="-12" frameY="-5" frameWidth="73" frameHeight="73"/> <!-- la tour -->
+	<SubTexture name="set1_2"  x="510" y="711" width="51" height="58" frameX="-12" frameY="-10" frameWidth="73" frameHeight="73"/> <!-- pion -->
+	
+	<!-- BLANC -->
+	<SubTexture name="set1_9"  x="54"  y="820" width="71" height="80" frameX="0" frameY="-2" frameWidth="73" frameHeight="73"/> <!-- roi -->
+	<SubTexture name="set1_11" x="144" y="820" width="71" height="80" frameX="-2" frameY="-1" frameWidth="73" frameHeight="73"/> <!-- reine -->
+	<SubTexture name="set1_7"  x="240" y="820" width="71" height="72" frameX="-2" frameY="-2" frameWidth="73" frameHeight="73"/> <!-- le fou -->
+	<SubTexture name="set1_5"  x="329" y="820" width="60" height="68" frameX="-5" frameY="-4" frameWidth="73" frameHeight="73"/> <!-- cheval -->
+	<SubTexture name="set1_3"  x="425" y="820" width="51" height="67" frameX="-12" frameY="-5" frameWidth="73" frameHeight="73"/> <!-- la tour -->
+	<SubTexture name="set1_1"  x="510" y="824" width="51" height="59" frameX="-12" frameY="-10" frameWidth="73" frameHeight="73"/> <!-- pion -->
+	
+	
+	<!-- clock -->
+	<SubTexture name="clock_1" x="54" y="1180" width="98" height="98"/>
+	<SubTexture name="clock_2" x="188" y="1180" width="110" height="109"/>
+	<SubTexture name="clock_3" x="332" y="1203" width="53" height="53" frameX="-12" frameY="-12" frameWidth="108" frameHeight="108"/>
+	<SubTexture name="clock_Ellipse" x="420" y="1207" width="56" height="56"/>
+	<SubTexture name="clock_Ellipse2" x="491" y="1207" width="56" height="56"/>
+	<SubTexture name="clock_copy" x="358" y="1278" width="27" height="27" frameX="-6" frameY="-6" frameWidth="54" frameHeight="54"/>
+	<SubTexture name="fs_clock" x="565" y="1207" width="56" height="56"/>
+	
+	
+	<!-- players -->
+	<SubTexture name="comp"         x="861" y="244" width="55" height="49" frameY="-1" frameWidth="53" frameHeight="50"/> <!-- computer -->
+	<SubTexture name="onePlaier1"   x="960" y="244" width="34" height="52" frameX="0" frameY="0" frameWidth="38" frameHeight="52"/>
+	
+	
+	<!-- Digits -->
+	<SubTexture name="digBright_0" x="50"  y="995"   width="37" height="47"/>
+	<SubTexture name="digBright_1" x="106" y="995"  width="37" height="47"/>
+	<SubTexture name="digBright_2" x="162" y="995"  width="37" height="47"/>
+	<SubTexture name="digBright_3" x="218" y="995"  width="37" height="47"/>
+	<SubTexture name="digBright_4" x="274" y="995" width="37" height="47"/>
+	<SubTexture name="digBright_5" x="330" y="995"  width="37" height="47"/>
+	<SubTexture name="digBright_6" x="386" y="995"  width="37" height="47"/>
+	<SubTexture name="digBright_7" x="442" y="995" width="37" height="47"/>
+	<SubTexture name="digBright_8" x="498" y="995"  width="37" height="47"/>
+	<SubTexture name="digBright_9" x="554" y="995" width="37" height="47"/>
+	
+	<SubTexture name="dig_0" x="50"   y="995"   width="37" height="47"/>
+	<SubTexture name="dig_1" x="106"  y="995"  width="37" height="47"/>
+	<SubTexture name="dig_2" x="162"  y="995"  width="37" height="47"/>
+	<SubTexture name="dig_3" x="218"  y="995"  width="37" height="47"/>
+	<SubTexture name="dig_4" x="274"  y="995" width="37" height="47"/>
+	<SubTexture name="dig_5" x="330"  y="995"  width="37" height="47"/>
+	<SubTexture name="dig_6" x="386"  y="995"  width="37" height="47"/>
+	<SubTexture name="dig_7" x="442"  y="995" width="37" height="47"/>
+	<SubTexture name="dig_8" x="498"  y="995"  width="37" height="47"/>
+	<SubTexture name="dig_9" x="554"  y="995" width="37" height="47"/>
+	<SubTexture name="dig_11" x="610" y="995" width="37" height="47" frameX="-2" frameY="-2" frameWidth="37" frameHeight="47"/>
+	
+	
+	<!-- win -->	
+	<SubTexture name="win"  x="930" y="620" width="105" height="103"/>
+	<SubTexture name="win1" x="861" y="820" width="205" height="92"/>
+	
+</TextureAtlas>
